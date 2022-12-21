@@ -117,14 +117,14 @@ The following PSNR/SSIMs are evaluated on Matlab R2017a and the code can be refe
     <em> Visual comparison of real-world images. </em>
 </p>
 
-## Reulsts on Gaussian denoising
+## Results on Gaussian denoising
 
 <p align="center">
     <img src="images/gaussian_denoising.png" width="960"> <br />
     <em> Comparison of real-world images. </em>
 </p>
 
-## Reulsts on real-world denoising
+## Results on real-world denoising
 
 <p align="center">
     <img src="images/real-world_denoising.png" width="960"> <br />
@@ -132,7 +132,7 @@ The following PSNR/SSIMs are evaluated on Matlab R2017a and the code can be refe
 </p>
 
 
-## Reulsts on rain-steak removal
+## Results on rain-steak removal
 
 <p align="center">
     <img src="images/rain-steak_removal.png" width="960"> <br />
